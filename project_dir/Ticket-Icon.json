@@ -1,0 +1,68 @@
+{
+  "version": "3.3.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ticket_wuling",
+      "score": null,
+      "points": [
+        [
+          1687.712765957447,
+          553.7234042553191
+        ],
+        [
+          1772.8191489361702,
+          553.7234042553191
+        ],
+        [
+          1772.8191489361702,
+          616.4893617021277
+        ],
+        [
+          1687.712765957447,
+          616.4893617021277
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ticket_valley",
+      "score": null,
+      "points": [
+        [
+          1688.2446808510638,
+          382.4468085106383
+        ],
+        [
+          1772.2872340425533,
+          382.4468085106383
+        ],
+        [
+          1772.2872340425533,
+          444.1489361702127
+        ],
+        [
+          1688.2446808510638,
+          444.1489361702127
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Ticket-Icon.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

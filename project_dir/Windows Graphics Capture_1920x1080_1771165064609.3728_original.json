@@ -1,0 +1,39 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "market_dispatch_terminal",
+      "score": null,
+      "points": [
+        [
+          903.1847133757962,
+          215.583864118896
+        ],
+        [
+          934.8195329087049,
+          215.583864118896
+        ],
+        [
+          934.8195329087049,
+          245.09554140127392
+        ],
+        [
+          903.1847133757962,
+          245.09554140127392
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Windows Graphics Capture_1920x1080_1771165064609.3728_original.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

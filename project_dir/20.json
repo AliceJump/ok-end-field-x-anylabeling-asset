@@ -1,0 +1,39 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "operator_liaison_station_out_map",
+      "score": null,
+      "points": [
+        [
+          887.1,
+          436.1
+        ],
+        [
+          911.3,
+          436.1
+        ],
+        [
+          911.3,
+          456.5
+        ],
+        [
+          887.1,
+          456.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "20.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

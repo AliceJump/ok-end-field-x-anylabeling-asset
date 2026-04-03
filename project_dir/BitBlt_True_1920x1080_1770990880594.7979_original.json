@@ -1,0 +1,39 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chat_icon_dark",
+      "score": null,
+      "points": [
+        [
+          1266.3,
+          709.3
+        ],
+        [
+          1299.3,
+          709.3
+        ],
+        [
+          1299.3,
+          742.5
+        ],
+        [
+          1266.3,
+          742.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "BitBlt_True_1920x1080_1770990880594.7979_original.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

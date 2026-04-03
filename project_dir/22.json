@@ -1,0 +1,39 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "claim_gift",
+      "score": null,
+      "points": [
+        [
+          289.2,
+          337.9
+        ],
+        [
+          324.2,
+          337.9
+        ],
+        [
+          324.2,
+          372.6
+        ],
+        [
+          289.2,
+          372.6
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "22.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

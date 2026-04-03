@@ -1,0 +1,39 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "transfer_point",
+      "score": null,
+      "points": [
+        [
+          941.5800415800414,
+          508.50311850311846
+        ],
+        [
+          978.5862785862785,
+          508.50311850311846
+        ],
+        [
+          978.5862785862785,
+          551.9542619542619
+        ],
+        [
+          941.5800415800414,
+          551.9542619542619
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "17.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}

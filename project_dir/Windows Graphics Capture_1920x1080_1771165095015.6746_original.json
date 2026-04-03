@@ -1,0 +1,40 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "market_dispatch_terminal_out",
+      "score": null,
+      "points": [
+        [
+          436.6043613707165,
+          659.4704049844237
+        ],
+        [
+          465.10903426791276,
+          659.4704049844237
+        ],
+        [
+          465.10903426791276,
+          685.4828660436137
+        ],
+        [
+          436.6043613707165,
+          685.4828660436137
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Windows Graphics Capture_1920x1080_1771165095015.6746_original.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920,
+  "description": ""
+}

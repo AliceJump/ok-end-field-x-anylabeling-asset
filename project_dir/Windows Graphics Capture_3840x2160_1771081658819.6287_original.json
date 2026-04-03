@@ -1,0 +1,97 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "can_exchange_info_icon",
+      "score": null,
+      "points": [
+        [
+          3624.434250764526,
+          1023.5474006116208
+        ],
+        [
+          3677.3394495412845,
+          1023.5474006116208
+        ],
+        [
+          3677.3394495412845,
+          1070.0305810397554
+        ],
+        [
+          3624.434250764526,
+          1070.0305810397554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "can_help_icon",
+      "score": null,
+      "points": [
+        [
+          3624.434250764526,
+          1091.131498470948
+        ],
+        [
+          3677.3394495412845,
+          1091.131498470948
+        ],
+        [
+          3677.3394495412845,
+          1143.119266055046
+        ],
+        [
+          3624.434250764526,
+          1143.119266055046
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "friend_chat_icon",
+      "score": null,
+      "points": [
+        [
+          3370.0,
+          1670.3225806451615
+        ],
+        [
+          3470.0,
+          1670.3225806451615
+        ],
+        [
+          3470.0,
+          1747.7419354838712
+        ],
+        [
+          3370.0,
+          1747.7419354838712
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Windows Graphics Capture_3840x2160_1771081658819.6287_original.png",
+  "imageData": null,
+  "imageHeight": 2160,
+  "imageWidth": 3840
+}

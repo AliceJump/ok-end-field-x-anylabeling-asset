@@ -1,0 +1,39 @@
+{
+  "version": "3.3.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chat_icon_2",
+      "score": null,
+      "points": [
+        [
+          1266.4719626168223,
+          740.8761682242991
+        ],
+        [
+          1298.948598130841,
+          740.8761682242991
+        ],
+        [
+          1298.948598130841,
+          773.4696261682243
+        ],
+        [
+          1266.4719626168223,
+          773.4696261682243
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Windows Graphics Capture_1920x1080_1770999303478.2556_original.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
