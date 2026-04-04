@@ -5,13 +5,7 @@ arclight_contact
 ardelia_contact
 assist_friend
 avywenna_contact
-b
-b_2k
-b_4k
 bluesteel_ore
-c
-c_2k
-c_4k
 can_exchange_info_icon
 can_help_icon
 chat_icon
@@ -32,6 +26,11 @@ consumables_icon
 credit_can_buy
 cultivation_materials_icon
 da_pan_contact
+danger_1_2k
+danger_2_2k
+danger_3_2k
+danger_4_2k
+danger_5_2k
 default_link_skill
 discount_95_percent_icon
 e
