@@ -679,6 +679,11 @@
       "id": 133,
       "name": "yvonne_contact",
       "supercategory": ""
+    },
+    {
+      "id": 134,
+      "name": "gather_icon_in_map",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -1995,6 +2000,12 @@
       "width": 3840,
       "date_captured": null,
       "id": 145
+    },
+    {
+      "id": 146,
+      "file_name": "0.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -2730,6 +2741,19 @@
         107
       ],
       "area": 10807,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 146,
+      "category_id": 134,
+      "bbox": [
+        1375,
+        485,
+        31,
+        18
+      ],
+      "area": 558,
       "iscrowd": 0
     },
     {
