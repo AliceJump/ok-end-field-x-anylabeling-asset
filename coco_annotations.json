@@ -699,6 +699,11 @@
       "id": 137,
       "name": "wuling_11_9w_4k",
       "supercategory": ""
+    },
+    {
+      "id": 138,
+      "name": "mothly_card2",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2039,6 +2044,12 @@
       "file_name": "3.png",
       "width": 3840,
       "height": 2160
+    },
+    {
+      "id": 150,
+      "file_name": "4.png",
+      "width": 3840,
+      "height": 2160
     }
   ],
   "annotations": [
@@ -2826,6 +2837,19 @@
         101
       ],
       "area": 11615,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 150,
+      "category_id": 138,
+      "bbox": [
+        22,
+        1058,
+        126,
+        47
+      ],
+      "area": 5922,
       "iscrowd": 0
     },
     {
