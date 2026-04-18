@@ -704,6 +704,11 @@
       "id": 138,
       "name": "monthly_card2",
       "supercategory": ""
+    },
+    {
+      "id": 139,
+      "name": "zhuang_fangyi_contact",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2050,6 +2055,12 @@
       "file_name": "4.png",
       "width": 3840,
       "height": 2160
+    },
+    {
+      "id": 151,
+      "file_name": "5.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -2850,6 +2861,19 @@
         47
       ],
       "area": 5922,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 151,
+      "category_id": 139,
+      "bbox": [
+        1528,
+        279,
+        98,
+        107
+      ],
+      "area": 10486,
       "iscrowd": 0
     },
     {
