@@ -709,6 +709,16 @@
       "id": 139,
       "name": "zhuang_fangyi_contact",
       "supercategory": ""
+    },
+    {
+      "id": 140,
+      "name": "baker_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 141,
+      "name": "baker_click",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2061,6 +2071,12 @@
       "file_name": "5.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 152,
+      "file_name": "6.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -2892,6 +2908,19 @@
       "segmentation": []
     },
     {
+      "id": 59,
+      "image_id": 152,
+      "category_id": 140,
+      "bbox": [
+        1490,
+        151,
+        102,
+        53
+      ],
+      "area": 5406,
+      "iscrowd": 0
+    },
+    {
       "id": 60,
       "image_id": 40,
       "category_id": 124,
@@ -2905,6 +2934,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 61,
+      "image_id": 152,
+      "category_id": 141,
+      "bbox": [
+        1519,
+        708,
+        97,
+        47
+      ],
+      "area": 4559,
+      "iscrowd": 0
     },
     {
       "id": 62,
