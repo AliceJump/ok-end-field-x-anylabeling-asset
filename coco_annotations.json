@@ -186,11 +186,6 @@
       "supercategory": ""
     },
     {
-      "id": 35,
-      "name": "discount_95_percent_icon",
-      "supercategory": ""
-    },
-    {
       "id": 36,
       "name": "e",
       "supercategory": ""
@@ -718,6 +713,11 @@
     {
       "id": 141,
       "name": "baker_click",
+      "supercategory": ""
+    },
+    {
+      "id": 142,
+      "name": "stamina_plus_icon",
       "supercategory": ""
     }
   ],
@@ -1819,15 +1819,6 @@
       "width": 3840,
       "date_captured": null,
       "id": 121
-    },
-    {
-      "license": 0,
-      "url": null,
-      "file_name": "Windows Graphics Capture_3840x2160_1773326729628.1821_original.png",
-      "height": 2160,
-      "width": 3840,
-      "date_captured": null,
-      "id": 122
     },
     {
       "license": 0,
@@ -2964,6 +2955,19 @@
       "segmentation": []
     },
     {
+      "id": 63,
+      "image_id": 84,
+      "category_id": 59,
+      "bbox": [
+        710,
+        573,
+        85,
+        82
+      ],
+      "area": 6970,
+      "iscrowd": 0
+    },
+    {
       "id": 64,
       "image_id": 44,
       "category_id": 122,
@@ -2977,6 +2981,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 65,
+      "image_id": 84,
+      "category_id": 61,
+      "bbox": [
+        708,
+        747,
+        83,
+        85
+      ],
+      "area": 7055,
+      "iscrowd": 0
     },
     {
       "id": 66,
@@ -3007,6 +3024,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 68,
+      "image_id": 84,
+      "category_id": 142,
+      "bbox": [
+        1762,
+        27,
+        34,
+        33
+      ],
+      "area": 1122,
+      "iscrowd": 0
     },
     {
       "id": 108,
@@ -3289,36 +3319,6 @@
         83.33333333333337
       ],
       "area": 6818.181818181825,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 148,
-      "image_id": 84,
-      "category_id": 59,
-      "bbox": [
-        710.0,
-        572.5757575757576,
-        84.84848484848476,
-        81.81818181818176
-      ],
-      "area": 6942.148760330566,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 149,
-      "image_id": 84,
-      "category_id": 61,
-      "bbox": [
-        708.4848484848485,
-        746.8181818181819,
-        83.33333333333326,
-        84.84848484848476
-      ],
-      "area": 7070.707070707057,
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
@@ -3694,21 +3694,6 @@
         119.69696969696952
       ],
       "area": 11788.337924701545,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 208,
-      "image_id": 122,
-      "category_id": 35,
-      "bbox": [
-        580.030487804878,
-        343.4146341463415,
-        57.77439024390242,
-        37.80487804878044
-      ],
-      "area": 2184.153777513381,
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
