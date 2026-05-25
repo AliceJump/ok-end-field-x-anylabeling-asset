@@ -186,6 +186,11 @@
       "supercategory": ""
     },
     {
+      "id": 35,
+      "name": "dense_source_ore_powder_4k",
+      "supercategory": ""
+    },
+    {
       "id": 36,
       "name": "e",
       "supercategory": ""
@@ -2068,6 +2073,12 @@
       "file_name": "6.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 153,
+      "file_name": "8.png",
+      "width": 3840,
+      "height": 2160
     }
   ],
   "annotations": [
@@ -3036,6 +3047,19 @@
         33
       ],
       "area": 1122,
+      "iscrowd": 0
+    },
+    {
+      "id": 69,
+      "image_id": 153,
+      "category_id": 35,
+      "bbox": [
+        1543,
+        1092,
+        141,
+        116
+      ],
+      "area": 16356,
       "iscrowd": 0
     },
     {
