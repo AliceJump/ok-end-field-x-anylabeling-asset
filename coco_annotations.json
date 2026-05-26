@@ -186,6 +186,11 @@
       "supercategory": ""
     },
     {
+      "id": 35,
+      "name": "log_out_confirm",
+      "supercategory": ""
+    },
+    {
       "id": 36,
       "name": "e",
       "supercategory": ""
@@ -718,6 +723,21 @@
     {
       "id": 142,
       "name": "stamina_plus_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 143,
+      "name": "transfer_go",
+      "supercategory": ""
+    },
+    {
+      "id": 144,
+      "name": "liaison_confirm",
+      "supercategory": ""
+    },
+    {
+      "id": 145,
+      "name": "give_gift",
       "supercategory": ""
     }
   ],
@@ -2068,6 +2088,30 @@
       "file_name": "6.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 153,
+      "file_name": "9.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 154,
+      "file_name": "10.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 155,
+      "file_name": "11.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 156,
+      "file_name": "12.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3036,6 +3080,58 @@
         33
       ],
       "area": 1122,
+      "iscrowd": 0
+    },
+    {
+      "id": 69,
+      "image_id": 153,
+      "category_id": 35,
+      "bbox": [
+        1178,
+        632,
+        29,
+        28
+      ],
+      "area": 812,
+      "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 154,
+      "category_id": 143,
+      "bbox": [
+        1816,
+        975,
+        36,
+        35
+      ],
+      "area": 1260,
+      "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 155,
+      "category_id": 144,
+      "bbox": [
+        1621,
+        875,
+        23,
+        19
+      ],
+      "area": 437,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 156,
+      "category_id": 145,
+      "bbox": [
+        1817,
+        978,
+        30,
+        28
+      ],
+      "area": 840,
       "iscrowd": 0
     },
     {
