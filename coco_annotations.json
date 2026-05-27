@@ -729,6 +729,26 @@
       "id": 143,
       "name": "start_follow",
       "supercategory": ""
+    },
+    {
+      "id": 144,
+      "name": "transfer_go",
+      "supercategory": ""
+    },
+    {
+      "id": 145,
+      "name": "log_out_confirm",
+      "supercategory": ""
+    },
+    {
+      "id": 146,
+      "name": "liaison_confirm",
+      "supercategory": ""
+    },
+    {
+      "id": 147,
+      "name": "give_gift",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -1831,6 +1851,12 @@
       "id": 121
     },
     {
+      "id": 122,
+      "file_name": "10.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "license": 0,
       "url": null,
       "file_name": "Windows Graphics Capture_3840x2160_1773326729628.1821_original.png",
@@ -2088,6 +2114,24 @@
     {
       "id": 154,
       "file_name": "18.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 155,
+      "file_name": "9.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 156,
+      "file_name": "11.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 157,
+      "file_name": "12.png",
       "width": 1920,
       "height": 1080
     }
@@ -3084,6 +3128,58 @@
         24
       ],
       "area": 360,
+      "iscrowd": 0
+    },
+    {
+      "id": 71,
+      "image_id": 122,
+      "category_id": 144,
+      "bbox": [
+        1817,
+        975,
+        34,
+        34
+      ],
+      "area": 1156,
+      "iscrowd": 0
+    },
+    {
+      "id": 72,
+      "image_id": 155,
+      "category_id": 145,
+      "bbox": [
+        1183,
+        638,
+        18,
+        15
+      ],
+      "area": 270,
+      "iscrowd": 0
+    },
+    {
+      "id": 73,
+      "image_id": 156,
+      "category_id": 146,
+      "bbox": [
+        1621,
+        874,
+        22,
+        19
+      ],
+      "area": 418,
+      "iscrowd": 0
+    },
+    {
+      "id": 74,
+      "image_id": 157,
+      "category_id": 147,
+      "bbox": [
+        1823,
+        985,
+        17,
+        13
+      ],
+      "area": 221,
       "iscrowd": 0
     },
     {
