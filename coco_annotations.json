@@ -724,6 +724,11 @@
       "id": 142,
       "name": "stamina_plus_icon",
       "supercategory": ""
+    },
+    {
+      "id": 143,
+      "name": "start_follow",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2079,6 +2084,12 @@
       "file_name": "8.png",
       "width": 3840,
       "height": 2160
+    },
+    {
+      "id": 154,
+      "file_name": "18.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3060,6 +3071,19 @@
         116
       ],
       "area": 16356,
+      "iscrowd": 0
+    },
+    {
+      "id": 70,
+      "image_id": 154,
+      "category_id": 143,
+      "bbox": [
+        1827,
+        980,
+        15,
+        24
+      ],
+      "area": 360,
       "iscrowd": 0
     },
     {
