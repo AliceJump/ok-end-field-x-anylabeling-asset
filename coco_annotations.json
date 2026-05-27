@@ -749,6 +749,11 @@
       "id": 147,
       "name": "give_gift",
       "supercategory": ""
+    },
+    {
+      "id": 148,
+      "name": "to_max_produce_num",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2134,6 +2139,12 @@
       "file_name": "12.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 158,
+      "file_name": "21.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3180,6 +3191,19 @@
         13
       ],
       "area": 221,
+      "iscrowd": 0
+    },
+    {
+      "id": 75,
+      "image_id": 158,
+      "category_id": 148,
+      "bbox": [
+        1516,
+        817,
+        33,
+        32
+      ],
+      "area": 1056,
       "iscrowd": 0
     },
     {
