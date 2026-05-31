@@ -814,6 +814,11 @@
       "id": 160,
       "name": "main_centre_icon",
       "supercategory": ""
+    },
+    {
+      "id": 161,
+      "name": "boat_entrance_icon",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -3480,6 +3485,19 @@
         18
       ],
       "area": 306,
+      "iscrowd": 0
+    },
+    {
+      "id": 88,
+      "image_id": 166,
+      "category_id": 161,
+      "bbox": [
+        1657,
+        106,
+        68,
+        44
+      ],
+      "area": 2992,
       "iscrowd": 0
     },
     {
