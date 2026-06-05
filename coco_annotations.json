@@ -819,6 +819,11 @@
       "id": 161,
       "name": "boat_entrance_icon",
       "supercategory": ""
+    },
+    {
+      "id": 162,
+      "name": "change_area",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2270,6 +2275,12 @@
       "file_name": "34.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 170,
+      "file_name": "35.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3498,6 +3509,19 @@
         44
       ],
       "area": 2992,
+      "iscrowd": 0
+    },
+    {
+      "id": 89,
+      "image_id": 170,
+      "category_id": 162,
+      "bbox": [
+        78,
+        299,
+        32,
+        35
+      ],
+      "area": 1120,
       "iscrowd": 0
     },
     {
