@@ -824,6 +824,21 @@
       "id": 162,
       "name": "change_area",
       "supercategory": ""
+    },
+    {
+      "id": 163,
+      "name": "battle_cost_x1",
+      "supercategory": ""
+    },
+    {
+      "id": 165,
+      "name": "restart_battle",
+      "supercategory": ""
+    },
+    {
+      "id": 166,
+      "name": "left_battle",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2281,6 +2296,24 @@
       "file_name": "35.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 171,
+      "file_name": "36.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 172,
+      "file_name": "37.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 173,
+      "file_name": "38.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3522,6 +3555,45 @@
         35
       ],
       "area": 1120,
+      "iscrowd": 0
+    },
+    {
+      "id": 90,
+      "image_id": 171,
+      "category_id": 163,
+      "bbox": [
+        632,
+        452,
+        19,
+        48
+      ],
+      "area": 912,
+      "iscrowd": 0
+    },
+    {
+      "id": 91,
+      "image_id": 172,
+      "category_id": 166,
+      "bbox": [
+        1311,
+        916,
+        33,
+        34
+      ],
+      "area": 1122,
+      "iscrowd": 0
+    },
+    {
+      "id": 92,
+      "image_id": 172,
+      "category_id": 165,
+      "bbox": [
+        811,
+        916,
+        34,
+        35
+      ],
+      "area": 1190,
       "iscrowd": 0
     },
     {
