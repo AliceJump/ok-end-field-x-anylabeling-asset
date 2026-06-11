@@ -1,3 +1,9 @@
+## Downloads
+
+![downloads](./assets/downloads.svg)
+
+---
+
 ### 这是标注的源文件, 调用compress.py进行压缩后自动输出到assets/images下, 同时自动更新src/data/FeatureList.py
 
 1. 使用 https://github.com/CVHub520/X-AnyLabeling 进行标注 pip install x-anylabeling-cvhub
