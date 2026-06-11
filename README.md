@@ -4,9 +4,9 @@
 
 ---
 
-### 杩欐槸鏍囨敞鐨勬簮鏂囦欢, 璋冪敤compress.py杩涜鍘嬬缉鍚庤嚜鍔ㄨ緭鍑哄埌assets/images涓? 鍚屾椂鑷姩鏇存柊src/data/FeatureList.py
+### 这是标注的源文件, 调用compress.py进行压缩后自动输出到assets/images下, 同时自动更新src/data/FeatureList.py
 
-1. 浣跨敤 https://github.com/CVHub520/X-AnyLabeling 杩涜鏍囨敞 pip install x-anylabeling-cvhub
-2. cmd杩愯xanylabeling 杞欢鎵撳紑 project_dir
-3. 娣诲姞鍥剧墖鍒皃roject_dir, 浣跨敤杞欢杩涜鏍囨敞
-4. 杩愯compress.py, cwd闇€瑕佹槸椤圭洰鏍圭洰褰? 瀵煎嚭骞舵浛鎹紙鍚屾椂鑷姩琛ュ厖src/data/FeatureList.py鐨勫唴瀹癸級
+1. 使用 https://github.com/CVHub520/X-AnyLabeling 进行标注 pip install x-anylabeling-cvhub
+2. cmd运行xanylabeling 软件打开 project_dir
+3. 添加图片到project_dir, 使用软件进行标注
+4. 运行compress.py, cwd需要是项目根目录, 导出并替换（同时自动补充src/data/FeatureList.py的内容）
