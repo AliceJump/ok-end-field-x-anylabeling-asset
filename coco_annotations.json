@@ -1024,6 +1024,11 @@
       "id": 202,
       "name": "demo_random_button",
       "supercategory": ""
+    },
+    {
+      "id": 203,
+      "name": "enter_demo",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2623,6 +2628,12 @@
     {
       "id": 197,
       "file_name": "66.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 198,
+      "file_name": "68.png",
       "width": 1920,
       "height": 1080
     }
@@ -4898,6 +4909,19 @@
         58
       ],
       "area": 2030,
+      "iscrowd": 0
+    },
+    {
+      "id": 166,
+      "image_id": 198,
+      "category_id": 203,
+      "bbox": [
+        1271,
+        683,
+        23,
+        24
+      ],
+      "area": 552,
       "iscrowd": 0
     },
     {
