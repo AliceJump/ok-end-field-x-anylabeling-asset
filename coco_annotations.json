@@ -1029,6 +1029,11 @@
       "id": 203,
       "name": "enter_demo",
       "supercategory": ""
+    },
+    {
+      "id": 204,
+      "name": "liaison_stage",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2634,6 +2639,12 @@
     {
       "id": 198,
       "file_name": "68.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 199,
+      "file_name": "70.png",
       "width": 1920,
       "height": 1080
     }
@@ -4922,6 +4933,19 @@
         24
       ],
       "area": 552,
+      "iscrowd": 0
+    },
+    {
+      "id": 167,
+      "image_id": 199,
+      "category_id": 204,
+      "bbox": [
+        1268,
+        712,
+        29,
+        27
+      ],
+      "area": 783,
       "iscrowd": 0
     },
     {
