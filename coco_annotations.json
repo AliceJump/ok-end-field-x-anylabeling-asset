@@ -1059,6 +1059,21 @@
       "id": 209,
       "name": "secondary_objective_direction_dot_light_fourth",
       "supercategory": ""
+    },
+    {
+      "id": 210,
+      "name": "daily_demo_enter",
+      "supercategory": ""
+    },
+    {
+      "id": 211,
+      "name": "transaction_overview",
+      "supercategory": ""
+    },
+    {
+      "id": 212,
+      "name": "view_location",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2682,6 +2697,12 @@
     {
       "id": 201,
       "file_name": "72.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 202,
+      "file_name": "73.png",
       "width": 1920,
       "height": 1080
     }
@@ -5161,6 +5182,19 @@
       "iscrowd": 0
     },
     {
+      "id": 181,
+      "image_id": 202,
+      "category_id": 210,
+      "bbox": [
+        293,
+        556,
+        40,
+        41
+      ],
+      "area": 1640,
+      "iscrowd": 0
+    },
+    {
       "id": 182,
       "image_id": 114,
       "category_id": 31,
@@ -5189,6 +5223,32 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 184,
+      "image_id": 170,
+      "category_id": 211,
+      "bbox": [
+        254,
+        427,
+        30,
+        27
+      ],
+      "area": 810,
+      "iscrowd": 0
+    },
+    {
+      "id": 185,
+      "image_id": 202,
+      "category_id": 212,
+      "bbox": [
+        1443,
+        686,
+        20,
+        20
+      ],
+      "area": 400,
+      "iscrowd": 0
     },
     {
       "id": 186,
