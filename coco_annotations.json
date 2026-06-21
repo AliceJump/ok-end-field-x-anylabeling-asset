@@ -1295,6 +1295,12 @@
       "height": 2160
     },
     {
+      "id": 25,
+      "file_name": "74.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "license": 0,
       "url": null,
       "file_name": "7d01f3c4-Windows_Graphics_Capture_3840x2160_1769595701666.7468_original.png",
@@ -2688,12 +2694,6 @@
       "file_name": "73.png",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "id": 203,
-      "file_name": "74.png",
-      "width": 1920,
-      "height": 1080
     }
   ],
   "annotations": [
@@ -3447,12 +3447,12 @@
       "image_id": 147,
       "category_id": 135,
       "bbox": [
-        1276,
-        333,
-        44,
-        14
+        1268,
+        295,
+        59,
+        52
       ],
-      "area": 616,
+      "area": 3068,
       "iscrowd": 0
     },
     {
@@ -3460,12 +3460,12 @@
       "image_id": 148,
       "category_id": 136,
       "bbox": [
-        1701,
-        444,
-        58,
-        18
+        1689,
+        395,
+        85,
+        67
       ],
-      "area": 1044,
+      "area": 5695,
       "iscrowd": 0
     },
     {
@@ -3473,12 +3473,12 @@
       "image_id": 149,
       "category_id": 137,
       "bbox": [
-        2553,
-        666,
-        86,
-        27
+        2538,
+        592,
+        115,
+        101
       ],
-      "area": 2322,
+      "area": 11615,
       "iscrowd": 0
     },
     {
@@ -3512,13 +3512,15 @@
       "image_id": 38,
       "category_id": 121,
       "bbox": [
-        1699,
-        1005,
-        61,
-        18
+        1691.494252873563,
+        953.7117903930131,
+        78.85057471264372,
+        68.81694523917076
       ],
-      "area": 1098,
-      "iscrowd": 0
+      "area": 5426.255682077146,
+      "iscrowd": 0,
+      "ignore": 0,
+      "segmentation": []
     },
     {
       "id": 59,
@@ -4883,15 +4885,15 @@
     },
     {
       "id": 160,
-      "image_id": 203,
+      "image_id": 25,
       "category_id": 198,
       "bbox": [
         293,
         121,
-        39,
-        41
+        40,
+        42
       ],
-      "area": 1599,
+      "area": 1680,
       "iscrowd": 0
     },
     {
