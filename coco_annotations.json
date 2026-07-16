@@ -1134,6 +1134,11 @@
       "id": 224,
       "name": "wuling_16_3w",
       "supercategory": ""
+    },
+    {
+      "id": 225,
+      "name": "scratching_icon",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -5537,6 +5542,19 @@
         13
       ],
       "area": 390,
+      "iscrowd": 0
+    },
+    {
+      "id": 199,
+      "image_id": 207,
+      "category_id": 225,
+      "bbox": [
+        1079,
+        219,
+        91,
+        91
+      ],
+      "area": 8281,
       "iscrowd": 0
     },
     {
