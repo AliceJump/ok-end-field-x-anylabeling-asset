@@ -1139,6 +1139,16 @@
       "id": 225,
       "name": "scratching_icon",
       "supercategory": ""
+    },
+    {
+      "id": 227,
+      "name": "battle_gather_ok",
+      "supercategory": ""
+    },
+    {
+      "id": 228,
+      "name": "battle_space_ok",
+      "supercategory": ""
     }
   ],
   "images": [
@@ -2834,6 +2844,18 @@
     {
       "id": 214,
       "file_name": "92.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 215,
+      "file_name": "7.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 216,
+      "file_name": "13.png",
       "width": 1920,
       "height": 1080
     }
@@ -5555,6 +5577,32 @@
         53
       ],
       "area": 2385,
+      "iscrowd": 0
+    },
+    {
+      "id": 200,
+      "image_id": 215,
+      "category_id": 228,
+      "bbox": [
+        981,
+        182,
+        16,
+        22
+      ],
+      "area": 352,
+      "iscrowd": 0
+    },
+    {
+      "id": 201,
+      "image_id": 216,
+      "category_id": 227,
+      "bbox": [
+        978,
+        181,
+        17,
+        17
+      ],
+      "area": 289,
       "iscrowd": 0
     },
     {
