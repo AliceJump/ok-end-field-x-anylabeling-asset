@@ -28,12 +28,25 @@ if TOKEN:
 
 
 def github_get(url: str):
+    """调用 GitHub API。
+
+    Args:
+        url: 请求地址。
+
+    Returns:
+        Any: 响应。
+    """
     r = requests.get(url, headers=HEADERS, timeout=30)
     r.raise_for_status()
     return r.json()
 
 
 def get_all_releases():
+    """分页获取全部 release。
+
+    Returns:
+        list: release 列表。
+    """
     page = 1
     releases = []
 
@@ -52,6 +65,14 @@ def get_all_releases():
 
 
 def build_monthly_downloads(releases):
+    """按月汇总 release 下载量。
+
+    Args:
+        releases: release 列表。
+
+    Returns:
+        list: (月份, 下载量) 列表。
+    """
     monthly = defaultdict(int)
 
     for release in releases:
@@ -73,6 +94,14 @@ def build_monthly_downloads(releases):
 
 
 def escape(text: str) -> str:
+    """转义 XML 特殊字符。
+
+    Args:
+        text: 文本。
+
+    Returns:
+        str: 转义后的文本。
+    """
     return (
         text.replace("&", "&amp;")
         .replace("<", "&lt;")
@@ -82,6 +111,14 @@ def escape(text: str) -> str:
 
 
 def generate_svg(items):
+    """生成下载量统计 SVG。
+
+    Args:
+        items: 数据项。
+
+    Returns:
+        str: SVG 文本。
+    """
     width = 520
     header_height = 64
     row_height = 32
@@ -155,6 +192,11 @@ def generate_svg(items):
 
 
 def main():
+    """生成下载量统计 SVG 并写出。
+
+    Returns:
+        None
+    """
     releases = get_all_releases()
     items = build_monthly_downloads(releases)
     ASSETS_DIR.mkdir(exist_ok=True)
