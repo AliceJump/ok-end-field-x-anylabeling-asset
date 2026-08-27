@@ -1534,6 +1534,12 @@
       "height": 1080
     },
     {
+      "id": 184,
+      "file_name": "38.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
       "id": 185,
       "file_name": "53.png",
       "width": 1920,
@@ -4641,6 +4647,32 @@
       "iscrowd": 0
     },
     {
+      "id": 213,
+      "image_id": 184,
+      "category_id": 185,
+      "bbox": [
+        273,
+        927,
+        54,
+        46
+      ],
+      "area": 2484,
+      "iscrowd": 0
+    },
+    {
+      "id": 214,
+      "image_id": 184,
+      "category_id": 264,
+      "bbox": [
+        390,
+        927,
+        54,
+        46
+      ],
+      "area": 2484,
+      "iscrowd": 0
+    },
+    {
       "id": 216,
       "image_id": 128,
       "category_id": 131,
@@ -6296,6 +6328,11 @@
       "supercategory": ""
     },
     {
+      "id": 185,
+      "name": "arcane_battle_icon",
+      "supercategory": ""
+    },
+    {
       "id": 186,
       "name": "double_ticket",
       "supercategory": ""
@@ -6684,6 +6721,11 @@
       "id": 263,
       "name": "akekuri_battle_icon",
       "supercategory": null
+    },
+    {
+      "id": 264,
+      "name": "mi_fu_battle_icon",
+      "supercategory": ""
     }
   ]
 }
