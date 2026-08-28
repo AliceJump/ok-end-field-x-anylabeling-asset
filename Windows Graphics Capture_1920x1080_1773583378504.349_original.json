@@ -3,7 +3,7 @@
   "flags": {},
   "shapes": [
     {
-      "label": "yvonne_contact",
+      "label": "contact_yvonne",
       "score": null,
       "points": [
         [
@@ -32,7 +32,7 @@
       "kie_linking": []
     },
     {
-      "label": "tangtang_contact",
+      "label": "contact_tangtang",
       "score": null,
       "points": [
         [

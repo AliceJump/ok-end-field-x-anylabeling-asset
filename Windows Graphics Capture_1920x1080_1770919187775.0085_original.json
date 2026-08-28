@@ -4,7 +4,7 @@
   "shapes": [
     {
       "kie_linking": [],
-      "label": "ember_contact",
+      "label": "contact_ember",
       "score": null,
       "points": [
         [
@@ -33,7 +33,7 @@
     },
     {
       "kie_linking": [],
-      "label": "pogranichnik_contact",
+      "label": "contact_pogranichnik",
       "score": null,
       "points": [
         [
@@ -62,7 +62,7 @@
     },
     {
       "kie_linking": [],
-      "label": "gilberta_contact",
+      "label": "contact_gilberta",
       "score": null,
       "points": [
         [
@@ -91,7 +91,7 @@
     },
     {
       "kie_linking": [],
-      "label": "lifeng_contact",
+      "label": "contact_lifeng",
       "score": null,
       "points": [
         [
@@ -120,7 +120,7 @@
     },
     {
       "kie_linking": [],
-      "label": "last_rite_contact",
+      "label": "contact_last_rite",
       "score": null,
       "points": [
         [
@@ -149,7 +149,7 @@
     },
     {
       "kie_linking": [],
-      "label": "ardelia_contact",
+      "label": "contact_ardelia",
       "score": null,
       "points": [
         [
@@ -177,7 +177,7 @@
       "attributes": {}
     },
     {
-      "label": "avywenna_contact",
+      "label": "contact_avywenna",
       "score": null,
       "points": [
         [
@@ -206,7 +206,7 @@
       "kie_linking": []
     },
     {
-      "label": "alesh_contact",
+      "label": "contact_alesh",
       "score": null,
       "points": [
         [
@@ -235,7 +235,7 @@
       "kie_linking": []
     },
     {
-      "label": "da_pan_contact",
+      "label": "contact_da_pan",
       "score": null,
       "points": [
         [
@@ -264,7 +264,7 @@
       "kie_linking": []
     },
     {
-      "label": "wulfgard_contact",
+      "label": "contact_wulfgard",
       "score": null,
       "points": [
         [
@@ -293,7 +293,7 @@
       "kie_linking": []
     },
     {
-      "label": "chen_qianyu_contact",
+      "label": "contact_chen_qianyu",
       "score": null,
       "points": [
         [
@@ -322,7 +322,7 @@
       "kie_linking": []
     },
     {
-      "label": "perlica_contact",
+      "label": "contact_perlica",
       "score": null,
       "points": [
         [

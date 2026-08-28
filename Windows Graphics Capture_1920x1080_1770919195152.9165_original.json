@@ -3,7 +3,7 @@
   "flags": {},
   "shapes": [
     {
-      "label": "xaihi_contact",
+      "label": "contact_xaihi",
       "score": null,
       "points": [
         [
@@ -32,7 +32,7 @@
       "kie_linking": []
     },
     {
-      "label": "snowshine_contact",
+      "label": "contact_snowshine",
       "score": null,
       "points": [
         [
@@ -61,7 +61,7 @@
       "kie_linking": []
     },
     {
-      "label": "arclight_contact",
+      "label": "contact_arclight",
       "score": null,
       "points": [
         [
@@ -90,7 +90,7 @@
       "kie_linking": []
     },
     {
-      "label": "fluorite_contact",
+      "label": "contact_fluorite",
       "score": null,
       "points": [
         [
@@ -119,7 +119,7 @@
       "kie_linking": []
     },
     {
-      "label": "antal_contact",
+      "label": "contact_antal",
       "score": null,
       "points": [
         [
@@ -148,7 +148,7 @@
       "kie_linking": []
     },
     {
-      "label": "estella_contact",
+      "label": "contact_estella",
       "score": null,
       "points": [
         [
@@ -177,7 +177,7 @@
       "kie_linking": []
     },
     {
-      "label": "akekuri_contact",
+      "label": "contact_akekuri",
       "score": null,
       "points": [
         [
