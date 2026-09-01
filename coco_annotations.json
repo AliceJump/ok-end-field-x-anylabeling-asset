@@ -1754,6 +1754,12 @@
       "file_name": "48.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 224,
+      "file_name": "52.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4673,6 +4679,19 @@
       "iscrowd": 0
     },
     {
+      "id": 215,
+      "image_id": 224,
+      "category_id": 265,
+      "bbox": [
+        156,
+        927,
+        54,
+        46
+      ],
+      "area": 2484,
+      "iscrowd": 0
+    },
+    {
       "id": 216,
       "image_id": 128,
       "category_id": 131,
@@ -6725,6 +6744,11 @@
     {
       "id": 264,
       "name": "battle_icon_mi_fu",
+      "supercategory": ""
+    },
+    {
+      "id": 265,
+      "name": "battle_icon_camille",
       "supercategory": ""
     }
   ]
