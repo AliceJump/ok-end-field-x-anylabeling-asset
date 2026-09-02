@@ -1760,6 +1760,12 @@
       "file_name": "52.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 225,
+      "file_name": "62.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4789,6 +4795,19 @@
       "segmentation": []
     },
     {
+      "id": 223,
+      "image_id": 225,
+      "category_id": 257,
+      "bbox": [
+        57,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
       "id": 224,
       "image_id": 136,
       "category_id": 102,
@@ -6697,6 +6716,11 @@
       "id": 256,
       "name": "battle_icon_estella",
       "supercategory": null
+    },
+    {
+      "id": 257,
+      "name": "battle_icon_typhoeus",
+      "supercategory": ""
     },
     {
       "id": 258,
