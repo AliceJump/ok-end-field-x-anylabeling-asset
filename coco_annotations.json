@@ -1594,6 +1594,12 @@
       "height": 1080
     },
     {
+      "id": 194,
+      "file_name": "63.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "id": 196,
       "file_name": "65.png",
       "width": 1920,
@@ -4125,6 +4131,19 @@
       "segmentation": []
     },
     {
+      "id": 173,
+      "image_id": 194,
+      "category_id": 269,
+      "bbox": [
+        1675,
+        407,
+        133,
+        141
+      ],
+      "area": 18753,
+      "iscrowd": 0
+    },
+    {
       "id": 174,
       "image_id": 108,
       "category_id": 130,
@@ -4150,6 +4169,19 @@
         37
       ],
       "area": 1332,
+      "iscrowd": 0
+    },
+    {
+      "id": 176,
+      "image_id": 194,
+      "category_id": 270,
+      "bbox": [
+        1496,
+        662,
+        133,
+        145
+      ],
+      "area": 19285,
       "iscrowd": 0
     },
     {
@@ -6801,6 +6833,16 @@
     {
       "id": 268,
       "name": "terminal_enter",
+      "supercategory": ""
+    },
+    {
+      "id": 269,
+      "name": "contact_typhoeus",
+      "supercategory": ""
+    },
+    {
+      "id": 270,
+      "name": "contact_camille",
       "supercategory": ""
     }
   ]
