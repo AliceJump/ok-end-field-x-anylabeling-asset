@@ -5447,6 +5447,19 @@
       ],
       "area": 3009,
       "iscrowd": 0
+    },
+    {
+      "id": 289,
+      "image_id": 110,
+      "category_id": 268,
+      "bbox": [
+        2436,
+        38,
+        41,
+        29
+      ],
+      "area": 1189,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6783,6 +6796,11 @@
     {
       "id": 267,
       "name": "task_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 268,
+      "name": "terminal_enter",
       "supercategory": ""
     }
   ]
