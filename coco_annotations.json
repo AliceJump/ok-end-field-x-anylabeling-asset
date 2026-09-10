@@ -1408,12 +1408,6 @@
       "height": 1080
     },
     {
-      "id": 163,
-      "file_name": "28.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "id": 164,
       "file_name": "29.png",
       "width": 1920,
@@ -1552,12 +1546,6 @@
       "height": 1080
     },
     {
-      "id": 187,
-      "file_name": "55.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "id": 188,
       "file_name": "56.png",
       "width": 1920,
@@ -1572,12 +1560,6 @@
     {
       "id": 190,
       "file_name": "58.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "id": 191,
-      "file_name": "59.png",
       "width": 1920,
       "height": 1080
     },
@@ -1642,12 +1624,6 @@
       "height": 1080
     },
     {
-      "id": 203,
-      "file_name": "78.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "id": 204,
       "file_name": "82.png",
       "width": 1920,
@@ -1668,12 +1644,6 @@
     {
       "id": 207,
       "file_name": "85.png",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "id": 208,
-      "file_name": "86.png",
       "width": 1920,
       "height": 1080
     },
@@ -1770,6 +1740,18 @@
     {
       "id": 225,
       "file_name": "62.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 226,
+      "file_name": "screenshot_20260908_224745.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 227,
+      "file_name": "screenshot_20260908_230025.png",
       "width": 1920,
       "height": 1080
     }
@@ -5492,6 +5474,45 @@
       ],
       "area": 1189,
       "iscrowd": 0
+    },
+    {
+      "id": 290,
+      "image_id": 226,
+      "category_id": 271,
+      "bbox": [
+        1625,
+        900,
+        33,
+        33
+      ],
+      "area": 1089,
+      "iscrowd": 0
+    },
+    {
+      "id": 291,
+      "image_id": 227,
+      "category_id": 272,
+      "bbox": [
+        1818,
+        348,
+        16,
+        14
+      ],
+      "area": 224,
+      "iscrowd": 0
+    },
+    {
+      "id": 292,
+      "image_id": 227,
+      "category_id": 273,
+      "bbox": [
+        1780,
+        937,
+        45,
+        48
+      ],
+      "area": 2160,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6843,6 +6864,21 @@
     {
       "id": 270,
       "name": "contact_camille",
+      "supercategory": ""
+    },
+    {
+      "id": 271,
+      "name": "pass_task_collect",
+      "supercategory": ""
+    },
+    {
+      "id": 272,
+      "name": "week_task_collect",
+      "supercategory": ""
+    },
+    {
+      "id": 273,
+      "name": "week_reward_collect",
       "supercategory": ""
     }
   ]
