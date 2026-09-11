@@ -1754,6 +1754,18 @@
       "file_name": "screenshot_20260908_230025.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 228,
+      "file_name": "screenshot_20260911_171304.png",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 229,
+      "file_name": "screenshot_20260911_171323.png",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "annotations": [
@@ -5520,6 +5532,32 @@
       ],
       "area": 165,
       "iscrowd": 0
+    },
+    {
+      "id": 298,
+      "image_id": 229,
+      "category_id": 275,
+      "bbox": [
+        56,
+        1302,
+        19,
+        14
+      ],
+      "area": 266,
+      "iscrowd": 0
+    },
+    {
+      "id": 299,
+      "image_id": 228,
+      "category_id": 276,
+      "bbox": [
+        84,
+        1955,
+        28,
+        19
+      ],
+      "area": 532,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6891,6 +6929,16 @@
     {
       "id": 274,
       "name": "battle_lv",
+      "supercategory": ""
+    },
+    {
+      "id": 275,
+      "name": "battle_lv_2k",
+      "supercategory": ""
+    },
+    {
+      "id": 276,
+      "name": "battle_lv_4k",
       "supercategory": ""
     }
   ]
