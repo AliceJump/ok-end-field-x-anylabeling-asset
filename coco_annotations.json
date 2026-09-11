@@ -3927,19 +3927,6 @@
       "segmentation": []
     },
     {
-      "id": 159,
-      "image_id": 193,
-      "category_id": 197,
-      "bbox": [
-        1267,
-        710,
-        32,
-        30
-      ],
-      "area": 960,
-      "iscrowd": 0
-    },
-    {
       "id": 160,
       "image_id": 25,
       "category_id": 198,
@@ -5184,51 +5171,6 @@
       "segmentation": []
     },
     {
-      "id": 270,
-      "image_id": 193,
-      "category_id": 241,
-      "bbox": [
-        57,
-        927,
-        37,
-        46
-      ],
-      "area": 1702,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 271,
-      "image_id": 193,
-      "category_id": 242,
-      "bbox": [
-        173,
-        927,
-        37,
-        46
-      ],
-      "area": 1702,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 272,
-      "image_id": 193,
-      "category_id": 243,
-      "bbox": [
-        290,
-        927,
-        37,
-        46
-      ],
-      "area": 1702,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
       "id": 273,
       "image_id": 198,
       "category_id": 244,
@@ -5512,6 +5454,71 @@
         48
       ],
       "area": 2160,
+      "iscrowd": 0
+    },
+    {
+      "id": 293,
+      "image_id": 193,
+      "category_id": 197,
+      "bbox": [
+        1267,
+        710,
+        32,
+        30
+      ],
+      "area": 960,
+      "iscrowd": 0
+    },
+    {
+      "id": 294,
+      "image_id": 193,
+      "category_id": 241,
+      "bbox": [
+        57,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 295,
+      "image_id": 193,
+      "category_id": 242,
+      "bbox": [
+        173,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 296,
+      "image_id": 193,
+      "category_id": 243,
+      "bbox": [
+        290,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 297,
+      "image_id": 193,
+      "category_id": 274,
+      "bbox": [
+        275,
+        977,
+        15,
+        11
+      ],
+      "area": 165,
       "iscrowd": 0
     }
   ],
@@ -6879,6 +6886,11 @@
     {
       "id": 273,
       "name": "week_reward_collect",
+      "supercategory": ""
+    },
+    {
+      "id": 274,
+      "name": "battle_lv",
       "supercategory": ""
     }
   ]
