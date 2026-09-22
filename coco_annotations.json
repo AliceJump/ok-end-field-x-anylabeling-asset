@@ -4595,66 +4595,6 @@
       "segmentation": []
     },
     {
-      "id": 278,
-      "image_id": 219,
-      "category_id": 249,
-      "bbox": [
-        57,
-        927,
-        37,
-        46
-      ],
-      "area": 1702,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 279,
-      "image_id": 219,
-      "category_id": 250,
-      "bbox": [
-        173,
-        927,
-        37,
-        46
-      ],
-      "area": 1702,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 280,
-      "image_id": 219,
-      "category_id": 251,
-      "bbox": [
-        290,
-        927,
-        37,
-        46
-      ],
-      "area": 1702,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
-      "id": 281,
-      "image_id": 219,
-      "category_id": 252,
-      "bbox": [
-        407,
-        927,
-        37,
-        46
-      ],
-      "area": 1702,
-      "iscrowd": 0,
-      "ignore": 0,
-      "segmentation": []
-    },
-    {
       "id": 282,
       "image_id": 221,
       "category_id": 253,
@@ -4894,6 +4834,71 @@
         19
       ],
       "area": 532,
+      "iscrowd": 0
+    },
+    {
+      "id": 300,
+      "image_id": 219,
+      "category_id": 249,
+      "bbox": [
+        57,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 301,
+      "image_id": 219,
+      "category_id": 250,
+      "bbox": [
+        173,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 302,
+      "image_id": 219,
+      "category_id": 251,
+      "bbox": [
+        290,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 303,
+      "image_id": 219,
+      "category_id": 252,
+      "bbox": [
+        407,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 304,
+      "image_id": 219,
+      "category_id": 277,
+      "bbox": [
+        80,
+        898,
+        8,
+        16
+      ],
+      "area": 128,
       "iscrowd": 0
     }
   ],
@@ -6276,6 +6281,11 @@
     {
       "id": 276,
       "name": "battle_lv_4k",
+      "supercategory": ""
+    },
+    {
+      "id": 277,
+      "name": "main_char",
       "supercategory": ""
     }
   ]
