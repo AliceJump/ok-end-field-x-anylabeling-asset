@@ -1972,6 +1972,9 @@
   }, {
     "id" : 279,
     "name" : "move_to_the_target_2"
+  }, {
+    "id" : 280,
+    "name" : "main_char"
   } ],
   "annotations" : [ {
     "id" : 0,
@@ -3925,6 +3928,13 @@
     "category_id" : 278,
     "bbox" : [ 1307, 1366, 21, 15 ],
     "area" : 315,
+    "iscrowd" : 0
+  }, {
+    "id" : 308,
+    "image_id" : 219,
+    "category_id" : 280,
+    "bbox" : [ 80, 898, 8, 16 ],
+    "area" : 128,
     "iscrowd" : 0
   } ]
 }
