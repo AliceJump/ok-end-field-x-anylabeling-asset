@@ -1103,6 +1103,21 @@
       "file_name": "screenshot_20260911_171323.png",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "delivery_success_issue_483.jpg",
+      "height": 1080,
+      "width": 1920,
+      "date_captured": null,
+      "id": 230
+    },
+    {
+      "id": 231,
+      "file_name": "sand-save-1791403597701.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4900,6 +4915,19 @@
       ],
       "area": 128,
       "iscrowd": 0
+    },
+    {
+      "id": 305,
+      "image_id": 231,
+      "category_id": 278,
+      "bbox": [
+        940,
+        143,
+        48,
+        37
+      ],
+      "area": 1776,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6286,6 +6314,11 @@
     {
       "id": 277,
       "name": "main_char",
+      "supercategory": ""
+    },
+    {
+      "id": 278,
+      "name": "delivery_success_check",
       "supercategory": ""
     }
   ]
