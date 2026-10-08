@@ -1112,6 +1112,12 @@
       "width": 1920,
       "date_captured": null,
       "id": 230
+    },
+    {
+      "id": 231,
+      "file_name": "sand-save-1791403597701.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4912,7 +4918,7 @@
     },
     {
       "id": 305,
-      "image_id": 230,
+      "image_id": 231,
       "category_id": 278,
       "bbox": [
         940,
