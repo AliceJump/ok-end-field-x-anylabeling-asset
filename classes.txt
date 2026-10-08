@@ -131,3 +131,4 @@ wuling_7_98w_dark_2k
 wuling_7_98w_dark_4k
 xaihi_contact
 yvonne_contact
+delivery_success_check
