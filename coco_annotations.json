@@ -1127,6 +1127,15 @@
       "width": 1920,
       "date_captured": null,
       "id": 232
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "screenshot_20261010_093109.png",
+      "height": 1080,
+      "width": 1920,
+      "date_captured": null,
+      "id": 233
     }
   ],
   "annotations": [
@@ -4950,6 +4959,19 @@
       ],
       "area": 1702,
       "iscrowd": 0
+    },
+    {
+      "id": 307,
+      "image_id": 233,
+      "category_id": 280,
+      "bbox": [
+        57,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6346,6 +6368,11 @@
     {
       "id": 279,
       "name": "battle_icon_purrchena",
+      "supercategory": ""
+    },
+    {
+      "id": 280,
+      "name": "battle_icon_endministrator_male",
       "supercategory": ""
     }
   ]

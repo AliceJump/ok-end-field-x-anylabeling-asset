@@ -133,3 +133,4 @@ xaihi_contact
 yvonne_contact
 delivery_success_check
 battle_icon_purrchena
+battle_icon_endministrator_male
