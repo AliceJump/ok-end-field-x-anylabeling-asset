@@ -1118,6 +1118,15 @@
       "file_name": "sand-save-1791403597701.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "screenshot_20261010_091040.png",
+      "height": 1080,
+      "width": 1920,
+      "date_captured": null,
+      "id": 232
     }
   ],
   "annotations": [
@@ -4928,6 +4937,19 @@
       ],
       "area": 1776,
       "iscrowd": 0
+    },
+    {
+      "id": 306,
+      "image_id": 232,
+      "category_id": 279,
+      "bbox": [
+        57,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6319,6 +6341,11 @@
     {
       "id": 278,
       "name": "delivery_success_check",
+      "supercategory": ""
+    },
+    {
+      "id": 279,
+      "name": "battle_icon_purrchena",
       "supercategory": ""
     }
   ]
