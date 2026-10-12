@@ -1134,6 +1134,16 @@
     "file_name" : "64.png",
     "width" : 1920,
     "height" : 1080
+  }, {
+    "id" : 235,
+    "file_name" : "delivery_success_issue_483.jpg",
+    "width" : 1920,
+    "height" : 1080
+  }, {
+    "id" : 236,
+    "file_name" : "sand-save-1791403597701.png",
+    "width" : 1920,
+    "height" : 1080
   } ],
   "categories" : [ {
     "id" : 1,
@@ -2254,6 +2264,10 @@
   }, {
     "id" : 280,
     "name" : "main_char",
+    "supercategory" : ""
+  }, {
+    "id" : 281,
+    "name" : "delivery_success_check",
     "supercategory" : ""
   } ],
   "annotations" : [ {
@@ -4215,6 +4229,13 @@
     "category_id" : 277,
     "bbox" : [ 1686, 925, 50, 48 ],
     "area" : 2400,
+    "iscrowd" : 0
+  }, {
+    "id" : 310,
+    "image_id" : 236,
+    "category_id" : 281,
+    "bbox" : [ 940, 143, 48, 37 ],
+    "area" : 1776,
     "iscrowd" : 0
   } ]
 }
