@@ -1,0 +1,30 @@
+{
+  "version": "3.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "battle_icon_endministrator_male",
+      "score": null,
+      "points": [
+        [
+          57.0,
+          927.0
+        ],
+        [
+          94.0,
+          973.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "screenshot_20261010_093109.png",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
