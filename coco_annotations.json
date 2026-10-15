@@ -1136,6 +1136,12 @@
       "width": 1920,
       "date_captured": null,
       "id": 233
+    },
+    {
+      "id": 234,
+      "file_name": "screenshot_20261015_133753.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4972,6 +4978,19 @@
       ],
       "area": 1702,
       "iscrowd": 0
+    },
+    {
+      "id": 308,
+      "image_id": 234,
+      "category_id": 281,
+      "bbox": [
+        707,
+        751,
+        82,
+        78
+      ],
+      "area": 6396,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6373,6 +6392,11 @@
     {
       "id": 280,
       "name": "battle_icon_endministrator_male",
+      "supercategory": ""
+    },
+    {
+      "id": 281,
+      "name": "higher_order_warp_plasma_coated_slide",
       "supercategory": ""
     }
   ]
