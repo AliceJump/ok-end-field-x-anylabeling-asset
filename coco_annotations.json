@@ -1160,6 +1160,24 @@
       "file_name": "screenshot_20261015_133753.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 238,
+      "file_name": "screenshot_20261015_144313.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 239,
+      "file_name": "screenshot_20261015_144541.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 240,
+      "file_name": "screenshot_20261015_144634.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5048,6 +5066,32 @@
       ],
       "area": 6396,
       "iscrowd": 0
+    },
+    {
+      "id": 312,
+      "image_id": 238,
+      "category_id": 286,
+      "bbox": [
+        849,
+        473,
+        98,
+        108
+      ],
+      "area": 10584,
+      "iscrowd": 0
+    },
+    {
+      "id": 313,
+      "image_id": 240,
+      "category_id": 288,
+      "bbox": [
+        57,
+        927,
+        37,
+        46
+      ],
+      "area": 1702,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6469,6 +6513,16 @@
     {
       "id": 284,
       "name": "higher_order_warp_plasma_coated_slide",
+      "supercategory": ""
+    },
+    {
+      "id": 286,
+      "name": "contact_si",
+      "supercategory": ""
+    },
+    {
+      "id": 288,
+      "name": "battle_icon_si",
       "supercategory": ""
     }
   ]
