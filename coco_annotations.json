@@ -1136,6 +1136,24 @@
       "width": 1920,
       "date_captured": null,
       "id": 233
+    },
+    {
+      "id": 234,
+      "file_name": "55.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": 235,
+      "file_name": "28.png",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "id": 236,
+      "file_name": "64.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -4972,6 +4990,45 @@
       ],
       "area": 1702,
       "iscrowd": 0
+    },
+    {
+      "id": 308,
+      "image_id": 234,
+      "category_id": 281,
+      "bbox": [
+        1686,
+        925,
+        50,
+        48
+      ],
+      "area": 2400,
+      "iscrowd": 0
+    },
+    {
+      "id": 309,
+      "image_id": 235,
+      "category_id": 282,
+      "bbox": [
+        1307,
+        1366,
+        21,
+        15
+      ],
+      "area": 315,
+      "iscrowd": 0
+    },
+    {
+      "id": 310,
+      "image_id": 236,
+      "category_id": 283,
+      "bbox": [
+        1102,
+        1025,
+        16,
+        11
+      ],
+      "area": 176,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6373,6 +6430,21 @@
     {
       "id": 280,
       "name": "battle_icon_endministrator_male",
+      "supercategory": ""
+    },
+    {
+      "id": 281,
+      "name": "climb_the_zip_line",
+      "supercategory": ""
+    },
+    {
+      "id": 282,
+      "name": "move_to_the_target",
+      "supercategory": ""
+    },
+    {
+      "id": 283,
+      "name": "move_to_the_target_2",
       "supercategory": ""
     }
   ]
