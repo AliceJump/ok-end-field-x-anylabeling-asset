@@ -1154,6 +1154,12 @@
       "file_name": "64.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 237,
+      "file_name": "screenshot_20261015_133753.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5029,6 +5035,19 @@
       ],
       "area": 176,
       "iscrowd": 0
+    },
+    {
+      "id": 311,
+      "image_id": 237,
+      "category_id": 284,
+      "bbox": [
+        707,
+        751,
+        82,
+        78
+      ],
+      "area": 6396,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6445,6 +6464,11 @@
     {
       "id": 283,
       "name": "move_to_the_target_2",
+      "supercategory": ""
+    },
+    {
+      "id": 284,
+      "name": "higher_order_warp_plasma_coated_slide",
       "supercategory": ""
     }
   ]
