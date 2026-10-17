@@ -1178,6 +1178,12 @@
       "file_name": "screenshot_20261015_144634.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 241,
+      "file_name": "screenshot_20261017_100744.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5092,6 +5098,19 @@
       ],
       "area": 1702,
       "iscrowd": 0
+    },
+    {
+      "id": 314,
+      "image_id": 241,
+      "category_id": 289,
+      "bbox": [
+        1828,
+        153,
+        29,
+        36
+      ],
+      "area": 1044,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6523,6 +6542,11 @@
     {
       "id": 288,
       "name": "battle_icon_si",
+      "supercategory": ""
+    },
+    {
+      "id": 289,
+      "name": "next_person",
       "supercategory": ""
     }
   ]
