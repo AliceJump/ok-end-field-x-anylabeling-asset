@@ -1202,6 +1202,12 @@
       "width": 1920,
       "date_captured": null,
       "id": 243
+    },
+    {
+      "id": 244,
+      "file_name": "screenshot_20261021_190646.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5181,6 +5187,19 @@
       ],
       "area": 1044,
       "iscrowd": 0
+    },
+    {
+      "id": 315,
+      "image_id": 244,
+      "category_id": 292,
+      "bbox": [
+        1864,
+        556,
+        16,
+        19
+      ],
+      "area": 304,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6637,6 +6656,11 @@
     {
       "id": 291,
       "name": "auto_farmer",
+      "supercategory": ""
+    },
+    {
+      "id": 292,
+      "name": "login_in",
       "supercategory": ""
     }
   ]
