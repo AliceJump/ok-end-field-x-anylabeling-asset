@@ -38,6 +38,7 @@ delivery_success_check
 discount_95_percent_icon
 e
 ember_contact
+environment_monitoring_enter
 esc
 esc_2k
 esc_4k
@@ -85,6 +86,7 @@ operator_liaison_station
 operator_liaison_station_out_map
 orobertyl
 perlica_contact
+photo_target_checked
 pick_f
 pick_recycle
 plants_icon

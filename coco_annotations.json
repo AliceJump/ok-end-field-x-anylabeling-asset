@@ -1214,6 +1214,12 @@
       "file_name": "69.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 246,
+      "file_name": "environment_monitoring_photo.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5245,6 +5251,32 @@
       ],
       "area": 600,
       "iscrowd": 0
+    },
+    {
+      "id": 319,
+      "image_id": 178,
+      "category_id": 296,
+      "bbox": [
+        1383,
+        666,
+        82,
+        75
+      ],
+      "area": 6150,
+      "iscrowd": 0
+    },
+    {
+      "id": 320,
+      "image_id": 246,
+      "category_id": 297,
+      "bbox": [
+        52,
+        726,
+        26,
+        24
+      ],
+      "area": 624,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6721,6 +6753,16 @@
     {
       "id": 295,
       "name": "matrix_empty_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 296,
+      "name": "environment_monitoring_enter",
+      "supercategory": ""
+    },
+    {
+      "id": 297,
+      "name": "photo_target_checked",
       "supercategory": ""
     }
   ]
