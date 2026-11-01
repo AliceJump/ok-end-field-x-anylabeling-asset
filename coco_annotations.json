@@ -1208,6 +1208,18 @@
       "file_name": "screenshot_20261021_190646.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 245,
+      "file_name": "69.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 246,
+      "file_name": "75.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -5200,6 +5212,71 @@
       ],
       "area": 304,
       "iscrowd": 0
+    },
+    {
+      "id": 316,
+      "image_id": 245,
+      "category_id": 293,
+      "bbox": [
+        1712,
+        859,
+        33,
+        33
+      ],
+      "area": 1089,
+      "iscrowd": 0
+    },
+    {
+      "id": 317,
+      "image_id": 245,
+      "category_id": 294,
+      "bbox": [
+        465,
+        978,
+        32,
+        32
+      ],
+      "area": 1024,
+      "iscrowd": 0
+    },
+    {
+      "id": 318,
+      "image_id": 245,
+      "category_id": 295,
+      "bbox": [
+        778,
+        534,
+        24,
+        25
+      ],
+      "area": 600,
+      "iscrowd": 0
+    },
+    {
+      "id": 319,
+      "image_id": 178,
+      "category_id": 296,
+      "bbox": [
+        1383,
+        666,
+        82,
+        75
+      ],
+      "area": 6150,
+      "iscrowd": 0
+    },
+    {
+      "id": 320,
+      "image_id": 246,
+      "category_id": 297,
+      "bbox": [
+        52,
+        726,
+        26,
+        24
+      ],
+      "area": 624,
+      "iscrowd": 0
     }
   ],
   "categories": [
@@ -6661,6 +6738,31 @@
     {
       "id": 292,
       "name": "login_in",
+      "supercategory": ""
+    },
+    {
+      "id": 293,
+      "name": "matrix_dismantle_exit",
+      "supercategory": ""
+    },
+    {
+      "id": 294,
+      "name": "matrix_quick_add",
+      "supercategory": ""
+    },
+    {
+      "id": 295,
+      "name": "matrix_empty_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 296,
+      "name": "environment_monitoring_enter",
+      "supercategory": ""
+    },
+    {
+      "id": 297,
+      "name": "photo_target_checked",
       "supercategory": ""
     }
   ]
